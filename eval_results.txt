@@ -1,0 +1,21 @@
+f1 socre:
+0.5920431557653404
+
+Accuracy score:
+0.7979973878972573
+
+                     precision    recall  f1-score   support
+
+             Skills     0.2556    0.3091    0.2798       110
+       College Name     0.2222    0.1143    0.1509        35
+        Designation     0.4590    0.4275    0.4427       131
+               Name     0.8165    0.8396    0.8279       106
+Years of Experience     0.0909    0.1250    0.1053         8
+             Degree     0.3793    0.2683    0.3143        41
+      Email Address     0.8788    0.9022    0.8904       225
+Companies worked at     0.4918    0.5000    0.4959        60
+           Location     0.7857    0.5500    0.6471        20
+    Graduation Year     0.0000    0.0000    0.0000         2
+
+          micro avg     0.5893    0.5949    0.5920       738
+          macro avg     0.5987    0.5949    0.5943       738
